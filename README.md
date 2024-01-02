@@ -1,4 +1,7 @@
-<h1 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"><b> Hi , I'm Nitter </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
+<!---Header--->
+<h1 align="center"><img src="https://github.com/Nitter-Bot/Imagenes/blob/main/Hackerman.gif" width="35"><b> Hi , I'm Nitter </b><img src="https://github.com/Nitter-Bot/Imagenes/blob/main/Hackerman.gif" width="35"></h1>
+
+
 - 👋 Hi, I’m @Nitter-Bot
 - 👀 I’m interested in software and hardware development
 - 🌱 I’m currently learning Java, C++  and Python
