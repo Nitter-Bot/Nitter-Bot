@@ -28,7 +28,7 @@
 
 - **Programming languages**
 
-  <picture><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=20px></picture>
+  <picture><img src="https://github.com/Nitter-Bot/Imagenes/blob/main/C_Logo.png" width=20px></picture>
 
   
 </p>
