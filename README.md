@@ -29,6 +29,14 @@
 - **Programming languages**
 
   <picture><img src="https://github.com/Nitter-Bot/Imagenes/blob/main/C_Logo.png" width=20px></picture>
+  <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=20px></picture>
+  <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width=20px></picture>
+</p>
 
+<p>
+
+- **Software**
+
+  <picture><img src="https://e7.pngegg.com/pngimages/430/446/png-clipart-penguin-logo-linux-brand-font-penguin-animals-text.png" width=30px></picture>
   
 </p>
