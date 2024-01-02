@@ -23,3 +23,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <picture><img src = "https://github.com/Nitter-Bot/Imagenes/blob/main/Code.gif" width = 25px></picture> **Skills**
+
+<p>
+
+- **Programming languages**
+
+  <picture><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=20px></picture>
+
+  
+</p>
