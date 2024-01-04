@@ -42,3 +42,9 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Now playing
+
+&nbsp;<div align="center">
+  [![Spotify](https://nitter-five.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/kick2345)
+</div>
