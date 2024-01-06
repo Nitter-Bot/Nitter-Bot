@@ -9,9 +9,11 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!---About me--->
+
 ## <picture><img src = "https://github.com/Nitter-Bot/Imagenes/blob/main/camera2.gif" width = 25px></picture> **About me**
 
-  
+
  Hi, I’m Samuel Hernandez, student of the FI
   
 ✨I’m interested in software and network development
@@ -21,6 +23,8 @@
 ✨I’m looking for an Intership
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!---Skills--->
 
 ## <picture><img src = "https://github.com/Nitter-Bot/Imagenes/blob/main/Code.gif" width = 25px></picture> **Skills**
 
@@ -42,6 +46,8 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!---Spotify Playing--->
 
 ### Now playing
 
