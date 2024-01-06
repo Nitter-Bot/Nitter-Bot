@@ -39,7 +39,7 @@
 
 <p>
 
-- **Software**
+- **Software and tools**
 
   <code><img src="https://e7.pngegg.com/pngimages/430/446/png-clipart-penguin-logo-linux-brand-font-penguin-animals-text.png" width=30px></code>
   
