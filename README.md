@@ -35,7 +35,7 @@
   <code><img src="https://github.com/Nitter-Bot/Imagenes/blob/main/C_Logo.png" width=20px></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=20px></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width=20px></code>
-  <code><img src="https://cdn2.dineroenimagen.com/media/dinero/images/blogs/javalogo.jpg" width=20px></code>
+  <code><img src="https://www.animsa.es/wp-content/uploads/2014/05/java-logo.jpg" width=30px></code>
 </p>
 
 <p>
