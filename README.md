@@ -1,4 +1,3 @@
-###
 <!---Header--->
 <h1 align="center"><img src="https://github.com/Nitter-Bot/Imagenes/blob/main/Hackerman.gif" width="35"><b> Hi , I'm Nitter </b><img src="https://github.com/Nitter-Bot/Imagenes/blob/main/Hackerman.gif" width="35"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -11,16 +10,18 @@
 
 <!---About me--->
 
-## <picture><img src = "https://github.com/Nitter-Bot/Imagenes/blob/main/camera2.gif" width = 25px></picture> **About me**
-
-
- Hi, I’m Samuel Hernandez, student of the FI
+## <picture><img src = "https://github.com/Nitter-Bot/Imagenes/blob/main/camera2.gif" width = 25px></picture>**About me**
   
-✨I’m interested in software and network development
+**✨Data Structures and Graphs geek**
 
-✨I’m currently learning my fundamentals
+**✨CPCFI academic and member since 2024**
 
-✨I’m looking for an Intership
+**✨ICPC contestant 2024 (and next 2025 finalist?)**
+
+**✨C++ >>>>> Python** 
+
+**✨Always listening to music**
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -49,8 +50,10 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--- Connect with me ---!>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---Spotify Playing--->
 
 ### Now playing
