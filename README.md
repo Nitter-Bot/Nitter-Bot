@@ -12,16 +12,13 @@
 
 ## <picture><img src = "https://github.com/Nitter-Bot/Imagenes/blob/main/camera2.gif" width = 25px></picture>**About me**
   
-**✨Data Structures and Graphs geek**
-
-**✨CPCFI academic and member since 2024**
-
-**✨ICPC contestant 2024 (and next 2025 finalist?)**
-
-**✨C++ >>>>> Python** 
-
-**✨Always listening to music**
-
+- 🔭 I’m currently studying **Computer Engineering** at **UNAM (Faculty of Engineering)**.
+- 🏆 Member of **CPCFI** (Competitive Programming Club)
+- 🌀 ICPC Mexico Finals 2025
+- 💻 **Main Stack:** C++ 
+- 🐧 I use **Neovim** on **Linux** (I use Arch btw).
+- 💬 Ask me about **Data Structures, Graphs & Algorithms**.
+- ⚡ Fun fact: **C++ >>> Python** 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -50,10 +47,13 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--- Connect with me ---!>
+<!--- Stats ---!>
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!---Spotify Playing--->
 
 ### Now playing
